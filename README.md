@@ -1,11 +1,11 @@
-Hi, I'm Rangga 👋
+Hi, I'm Rangga
 
-Aspiring Software Engineer with a focus on Python fundamentals
-and backend concepts,.
+Aspiring Software Engineering student building strong foundations
+in Python and backend development.
 
-Curently:
-- Learning Python and basic software engineering concepts
-- Building learning projects and documenting progress on GitHub
+Currently:
+- Learning Python and core software engineering concepts
+- Building academic and learning projects while documenting progress on GitHub
 
 Tech Stack:
 - Python
@@ -13,12 +13,11 @@ Tech Stack:
 - Git & GitHub
 
 Goals:
-- Sterngthen backend fundamentals
-- Prepare for software engineering roles'
+- Strengthen backend fundamentals
+- Prepare for software engineering roles
 
 ### Links
 - GitHub: https://github.com/rangga-jakti
 - LinkedIn: https://linkedin.com/in/mirangga-jakti-8b0a69334
 
-
-📌 This profile reflects my learning journet and academic projects.
+📌 This profile reflects my learning journey and academic projects.
