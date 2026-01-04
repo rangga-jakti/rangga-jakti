@@ -1,23 +1,41 @@
-Hi, I'm Rangga
+# Mirangga Jakti
 
-Aspiring Software Engineering student building strong foundations
-in Python and backend development.
+Software Engineering student with a strong interest in backend development, system design, and applied programming.
+I focus on building process-driven backend systems, emphasizing clean architecture, data flow, and real-world administrative workflows.
 
-Currently:
-- Learning Python and core software engineering concepts
-- Building academic and learning projects while documenting progress on GitHub
+---
 
-Tech Stack:
-- Python
-- PHP (basics)
-- Git & GitHub
+## Background
 
-Goals:
-- Strengthen backend fundamentals
-- Prepare for software engineering roles
+- Software Engineering Student at Universitas Pamulang
+- Backend-focused (PHP, MySQL, Python – Flask)
+- Interested in system design, workflow automation, and scalable backend architectures
 
-### Links
-- GitHub: https://github.com/rangga-jakti
-- LinkedIn: https://linkedin.com/in/mirangga-jakti-8b0a69334
+---
 
-📌 This profile reflects my learning journey and academic projects.
+## Projects
+
+- **Passport Application System**  
+  Internal administrative system for managing passport application workflows  
+  -> https://github.com/rangga-jakti/pasport-application-system
+
+---
+
+## Publications & Academic Activities
+
+- Student Internship (KP) — System Design & Implementation  
+- Academic articles related to web-based information systems  
+*(Published through university and academic platforms)*
+
+---
+
+## Profiles
+
+- GitHub: https://github.com/rangga-jakti  
+- LinkedIn: https://www.linkedin.com/in/mirangga-jakti-8b0a69334/
+
+---
+
+## Notes
+
+This profile serves as a central reference to connect academic publications, projects, and professional profiles under a consistent identity.
