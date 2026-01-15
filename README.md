@@ -1,21 +1,26 @@
 # Mirangga Jakti
 
-Software Engineering student with a strong interest in backend development, system design, and applied programming.
-I focus on building process-driven backend systems, emphasizing clean architecture, data flow, and real-world administrative workflows.
+Software Engineering student with a strong focus on **Python backend development**.
+I build backend systems and REST APIs with an emphasis on clean architecture, clear data flow, and real-world administrative workflows.
 
 ---
 
 ## Background
 
 - Software Engineering Student at Universitas Pamulang
-- Backend-focused (PHP, MySQL, Python – Flask)
+- Backend-focused using **Python (FastAPI)** for API development
+- Previous backend experience with **PHP & MySQL**
 - Interested in system design, workflow automation, and scalable backend architectures
 
 ---
 
 ## Projects
 
-- **Passport Application System**  
+- **User Management API (FastAPI)**  
+  REST API focusing on clean API design, request/response validation, and backend fundamentals  
+  -> https://github.com/rangga-jakti/user-management-api
+
+- **Passport Application System (PHP)**  
   Internal administrative system for managing passport application workflows  
   -> https://github.com/rangga-jakti/pasport-application-system
 
@@ -25,7 +30,7 @@ I focus on building process-driven backend systems, emphasizing clean architectu
 
 - Student Internship (KP) — System Design & Implementation  
 - Academic articles related to web-based information systems  
-*(Published through university and academic platforms)*
+  *(Published through university and academic platforms)*
 
 ---
 
@@ -38,4 +43,4 @@ I focus on building process-driven backend systems, emphasizing clean architectu
 
 ## Notes
 
-This profile serves as a central reference to connect academic publications, projects, and professional profiles under a consistent identity.
+This profile highlights my transition toward Python-based backend development while building on previous backend experience.
