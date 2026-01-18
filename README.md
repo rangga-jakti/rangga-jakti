@@ -1,7 +1,7 @@
 # Mirangga Jakti
 
 Software Engineering student with a strong focus on **Python backend development**.
-I build backend systems and REST APIs with an emphasis on clean architecture, clear data flow, and real-world administrative workflows.
+I build backend systems and REST APIs with an emphasis on clean architecture, clear data flow, and real-world workflows.
 
 ---
 
@@ -9,20 +9,26 @@ I build backend systems and REST APIs with an emphasis on clean architecture, cl
 
 - Software Engineering Student at Universitas Pamulang
 - Backend-focused using **Python (FastAPI)** for API development
+- Experience with **REST API design, authentication, and database modeling**
 - Previous backend experience with **PHP & MySQL**
 - Interested in system design, workflow automation, and scalable backend architectures
 
 ---
 
-## Projects
+## Featured Projects
+
+- **Shopee MVP – Marketplace Application (FastAPI + Vanilla JS)**  
+  Full-stack marketplace MVP featuring JWT authentication, role-based access (buyer & seller), product management, and seller dashboard.  
+  This project focuses on real API–frontend integration and backend architecture rather than UI frameworks.  
+  → https://github.com/rangga-jakti/shopee-mvp
 
 - **User Management API (FastAPI)**  
   REST API focusing on clean API design, request/response validation, and backend fundamentals  
-  -> https://github.com/rangga-jakti/user-management-api
+  → https://github.com/rangga-jakti/user-management-api
 
 - **Passport Application System (PHP)**  
   Internal administrative system for managing passport application workflows  
-  -> https://github.com/rangga-jakti/pasport-application-system
+  → https://github.com/rangga-jakti/pasport-application-system
 
 ---
 
@@ -43,4 +49,4 @@ I build backend systems and REST APIs with an emphasis on clean architecture, cl
 
 ## Notes
 
-This profile highlights my transition toward Python-based backend development while building on previous backend experience.
+This profile reflects my progression from foundational backend systems toward more complex, real-world applications using Python and FastAPI.
