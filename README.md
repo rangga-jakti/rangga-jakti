@@ -14,6 +14,8 @@ and integrated into backend systems
 - Python backend development (FastAPI)
 - REST API design & JWT authentication
 - Database modeling & backend architecture
+- Machine Learning fundamentals & experimentation (in progress)
+- Data analysis with Python (Pandas, NumPy)
 - Previous experience with PHP & MySQL
 
 ---
