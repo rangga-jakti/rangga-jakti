@@ -3,9 +3,9 @@
 Backend-focused Software Engineering student specializing in Python and FastAPI, 
 with a growing interest in applied Machine Learning.
 
-**I build RESTful backend systems with clean architecture, authentication, and real-world workflows, 
+I build RESTful backend systems with clean architecture, authentication, and real-world workflows, 
 and I am currently exploring how machine learning models can be experimented with, evaluated, 
-and integrated into backend systems.**
+and integrated into backend systems
 ---
 
 ## Focus
