@@ -1,53 +1,77 @@
 # Mirangga Jakti
 
-Backend-focused Software Engineering student specializing in Python and FastAPI, 
-with a growing interest in applied Machine Learning.
+Backend-focused Software Engineering student specializing in Python backend development and data-driven applications.
 
-I build RESTful backend systems with clean architecture, authentication, and real-world workflows, 
-and I am currently exploring how machine learning models can be experimented with, evaluated, 
-and integrated into backend systems
+I build backend systems using Django and FastAPI, focusing on clean architecture, scalable APIs, and real-world workflows. Recently, I have been exploring how AI and data analysis can be integrated into production web applications.
 
 ---
 
-## Focus
+# Focus
 
-- Python backend development (FastAPI)
-- REST API design & JWT authentication
-- Database modeling & backend architecture
-- Machine Learning fundamentals & experimentation (in progress)
-- Data analysis with Python (Pandas, NumPy)
-- Previous experience with PHP & MySQL
+• Python backend development (Django, FastAPI)  
+• REST API design & authentication systems  
+• Database architecture with PostgreSQL  
+• Data analysis with Python (Pandas, NumPy)  
+• AI/LLM integration in web applications  
+• Machine Learning fundamentals (in progress)
 
 ---
 
-## Featured Project
+# Featured Projects
 
-### Shopee MVP – Marketplace Application  
-**FastAPI (Backend) + Vanilla JavaScript (Frontend)**  
-https://github.com/rangga-jakti/shopee-mvp
+## AI Market Trend Analyzer
+Django + PostgreSQL + Google Trends + Groq LLM
 
-Full-stack marketplace MVP built with a backend-first approach.
+AI-powered market analysis platform that analyzes Google Trends data and generates business insights.
 
-**Key features:**
+Key features:
+
+- Real-time Google Trends analysis
+- Trend scoring algorithm (interest, momentum, consistency)
+- AI-generated business insights using LLM
+- Keyword comparison with interactive charts
+- Personal user dashboards
+- Authentication system
+- PostgreSQL database
+- Production deployment
+
+Repository  
+https://github.com/rangga-jakti/ai-market-analyzer
+
+---
+
+## Shopee MVP – Marketplace Application
+FastAPI (Backend) + Vanilla JavaScript (Frontend)
+
+Full-stack marketplace MVP built with a backend-first architecture.
+
+Key features:
+
 - JWT authentication & role-based access
 - Product, cart, and order management
 - Payment simulation
-- Clean modular backend structure
+- Modular backend structure
 - Real API–frontend integration
 
----
-
-## Other Projects
-
-- User Management API (FastAPI)  
-  https://github.com/rangga-jakti/user-management-api
-
-- Passport Application System (PHP)  
-  https://github.com/rangga-jakti/pasport-application-system
+Repository  
+https://github.com/rangga-jakti/shopee-mvp
 
 ---
 
-## Profiles
+# Other Projects
 
-- GitHub: https://github.com/rangga-jakti  
-- LinkedIn: https://www.linkedin.com/in/mirangga-jakti-8b0a69334/
+User Management API (FastAPI)  
+https://github.com/rangga-jakti/user-management-api
+
+Passport Application System (PHP)  
+https://github.com/rangga-jakti/pasport-application-system
+
+---
+
+# Profiles
+
+GitHub  
+https://github.com/rangga-jakti
+
+LinkedIn  
+https://www.linkedin.com/in/mirangga-jakti-8b0a69334/
