@@ -17,7 +17,7 @@ I build backend systems using **Django** and **FastAPI**, focusing on **clean ar
 # ⚡ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,github,linux,vscode" />
 </p>
 
 ---
