@@ -1,26 +1,43 @@
-# Mirangga Jakti
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mirangga%20Jakti&fontSize=40&fontColor=ffffff"/>
 
-Backend-focused Software Engineering student specializing in Python backend development and data-driven applications.
-
-I build backend systems using Django and FastAPI, focusing on clean architecture, scalable APIs, and real-world workflows. Recently, I have been exploring how AI and data analysis can be integrated into production web applications.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Python+Django+Developer;AI+Web+App+Builder;Future+AI+Engineer&center=true&width=500&height=50">
+</p>
 
 ---
 
-# Focus
+# 👋 Hi, I'm Mirangga Jakti
+
+Backend-focused Software Engineering student specializing in **Python backend development** and **data-driven applications**.
+
+I build backend systems using **Django** and **FastAPI**, focusing on **clean architecture, scalable APIs, and real-world workflows**. Recently, I have been exploring how **AI and data analysis can be integrated into production web applications.**
+
+---
+
+# ⚡ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,linux,vscode" />
+</p>
+
+---
+
+# 🎯 Focus
 
 • Python backend development (Django, FastAPI)  
 • REST API design & authentication systems  
 • Database architecture with PostgreSQL  
 • Data analysis with Python (Pandas, NumPy)  
-• AI/LLM integration in web applications  
+• AI / LLM integration in web applications  
 • Machine Learning fundamentals (in progress)
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## AI Market Trend Analyzer
-Django + PostgreSQL + Google Trends + Groq LLM
+
+**Django + PostgreSQL + Google Trends + Groq LLM**
 
 AI-powered market analysis platform that analyzes Google Trends data and generates business insights.
 
@@ -35,15 +52,16 @@ Key features:
 - PostgreSQL database
 - Production deployment
 
-Repository  
+🔗 Repository  
 https://github.com/rangga-jakti/ai-market-analyzer
 
 ---
 
 ## Shopee MVP – Marketplace Application
-FastAPI (Backend) + Vanilla JavaScript (Frontend)
 
-Full-stack marketplace MVP built with a backend-first architecture.
+**FastAPI (Backend) + Vanilla JavaScript (Frontend)**
+
+Full-stack marketplace MVP built with a **backend-first architecture.**
 
 Key features:
 
@@ -53,25 +71,45 @@ Key features:
 - Modular backend structure
 - Real API–frontend integration
 
-Repository  
+🔗 Repository  
 https://github.com/rangga-jakti/shopee-mvp
 
 ---
 
-# Other Projects
+# 🧩 Other Projects
 
-User Management API (FastAPI)  
+**User Management API (FastAPI)**  
 https://github.com/rangga-jakti/user-management-api
 
-Passport Application System (PHP)  
+**Passport Application System (PHP)**  
 https://github.com/rangga-jakti/pasport-application-system
 
 ---
 
-# Profiles
+# 📊 GitHub Stats
+
+![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangga-jakti&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangga-jakti&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+[![Rangga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rangga-jakti&theme=tokyo-night)](https://github.com/rangga-jakti)
+
+---
+
+# 🌐 Profiles
 
 GitHub  
 https://github.com/rangga-jakti
 
 LinkedIn  
 https://www.linkedin.com/in/mirangga-jakti-8b0a69334/
+
+---
+
+![](https://komarev.com/ghpvc/?username=rangga-jakti&color=blue)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
