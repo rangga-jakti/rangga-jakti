@@ -1,16 +1,17 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mirangga%20Jakti&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Python+Django+Developer;AI+Web+App+Builder;Future+AI+Engineer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;Django+%26+FastAPI+Builder;AI+Web+App+Builder;Future+AI+Engineer&center=true&width=500&height=50">
 </p>
 
 ---
 
 # 👋 Hi, I'm Mirangga Jakti
 
-Backend-focused Software Engineering student specializing in **Python backend development** and **data-driven applications**.
+Backend-focused Software Engineering student building real-world applications as a **Python Developer**, with a focus on **backend systems, APIs, and data-driven web apps**.
 
-I build backend systems using **Django** and **FastAPI**, focusing on **clean architecture, scalable APIs, and real-world workflows**. Recently, I have been exploring how **AI and data analysis can be integrated into production web applications.**
+I build projects using **Python, Django, and FastAPI**, with an emphasis on **clean architecture, scalable backend development, authentication systems, and practical integration of AI into web applications**.
 
 ---
 
@@ -24,7 +25,8 @@ I build backend systems using **Django** and **FastAPI**, focusing on **clean ar
 
 # 🎯 Focus
 
-• Python backend development (Django, FastAPI)  
+• Python development for backend applications  
+• Backend API development with Django & FastAPI  
 • REST API design & authentication systems  
 • Database architecture with PostgreSQL  
 • Data analysis with Python (Pandas, NumPy)  
@@ -37,9 +39,9 @@ I build backend systems using **Django** and **FastAPI**, focusing on **clean ar
 
 ## AI Market Trend Analyzer
 
-**Django + PostgreSQL + Google Trends + Groq LLM**
+**Python + Django + PostgreSQL + Google Trends + Groq LLM**
 
-AI-powered market analysis platform that analyzes Google Trends data and generates business insights.
+AI-powered market analysis platform built with Python that analyzes Google Trends data and generates business insights.
 
 Key features:
 
@@ -59,9 +61,9 @@ https://github.com/rangga-jakti/ai-market-analyzer
 
 ## Shopee MVP – Marketplace Application
 
-**FastAPI (Backend) + Vanilla JavaScript (Frontend)**
+**Python + FastAPI + Vanilla JavaScript**
 
-Full-stack marketplace MVP built with a **backend-first architecture.**
+Full-stack marketplace MVP built with a **Python backend-first architecture**.
 
 Key features:
 
@@ -78,7 +80,7 @@ https://github.com/rangga-jakti/shopee-mvp
 
 # 🧩 Other Projects
 
-**User Management API (FastAPI)**  
+**User Management API (FastAPI / Python)**  
 https://github.com/rangga-jakti/user-management-api
 
 **Passport Application System (PHP)**  
@@ -113,5 +115,3 @@ https://www.linkedin.com/in/mirangga-jakti-8b0a69334/
 ![](https://komarev.com/ghpvc/?username=rangga-jakti&color=blue)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mirangga%20Jakti&fontSize=40&fontColor=ffffff"/>
