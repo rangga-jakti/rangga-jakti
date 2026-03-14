@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mirangga%20Jakti&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
