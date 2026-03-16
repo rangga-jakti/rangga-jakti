@@ -1,16 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mirangga%20Jakti&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;Django+%26+FastAPI+Builder;AI+Web+App+Builder;Future+AI+Engineer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;Django+%26+FastAPI+Engineer;AI+Web+Application+Builder;Building+Data-Driven+Products&center=true&width=500&height=50">
 </p>
 
 ---
 
 # 👋 Hi, I'm Mirangga Jakti
 
-Backend-focused Software Engineering student building real-world applications as a **Python Developer**, with a focus on **backend systems, APIs, and data-driven web apps**.
+Backend-focused Software Engineering student building **real-world AI-powered web applications as a Python Developer**.
 
-I build projects using **Python, Django, and FastAPI**, with an emphasis on **clean architecture, scalable backend development, authentication systems, and practical integration of AI into web applications**.
+I focus on **backend systems, scalable APIs, data pipelines, and AI integration** using **Python, Django, and FastAPI**.
+My projects combine **data analysis, machine learning, and LLM-powered features** to create practical tools for market research, startup validation, and trend analysis.
 
 ---
 
@@ -20,97 +21,133 @@ I build projects using **Python, Django, and FastAPI**, with an emphasis on **cl
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,github,linux,vscode" />
 </p>
 
----
+Core technologies I work with:
 
-# 🎯 Focus
-
-• Python development for backend applications  
-• Backend API development with Django & FastAPI  
-• REST API design & authentication systems  
-• Database architecture with PostgreSQL  
-• Data analysis with Python (Pandas, NumPy)  
-• AI / LLM integration in web applications  
-• Machine Learning fundamentals (in progress)
+* Python backend development
+* Django & FastAPI
+* PostgreSQL database architecture
+* REST API design
+* AI / LLM integration
+* Data processing & analysis
+* Machine learning fundamentals
 
 ---
 
 # 🚀 Featured Projects
 
+## TrendPulse AI
+
+**Python • Django • PostgreSQL • Groq LLM • Prophet ML**
+
+AI-powered trend intelligence platform that analyzes real-time internet trends and predicts their future growth.
+
+Key capabilities:
+
+* Google Trends + Google News data pipeline
+* Custom **Virality Score algorithm**
+* AI-powered trend analysis using LLaMA 3.3 (Groq API)
+* ML forecasting with Prophet time-series models
+* Content idea generator (YouTube, TikTok, Blog, Business)
+* Real-time analytics dashboard
+* Automated trend fetching system (APScheduler)
+
+🔗 Repository
+https://github.com/rangga-jakti/trendpulse-ai
+
+---
+
+## VentureLens AI
+
+**Python • Django • AI Analysis Engine**
+
+AI-powered platform for validating startup ideas using structured analysis and market insights.
+
+Key capabilities:
+
+* AI-powered startup idea validation
+* Multi-dimensional business analysis
+* Market opportunity scoring
+* Risk & competition evaluation
+* AI-generated insights for founders
+* Clean SaaS-style web interface
+
+🔗 Repository
+https://github.com/rangga-jakti/venturelens-ai
+
+---
+
 ## AI Market Trend Analyzer
 
-**Python + Django + PostgreSQL + Google Trends + Groq LLM**
+**Python • Django • PostgreSQL • Google Trends • Groq LLM**
 
-AI-powered market analysis platform built with Python that analyzes Google Trends data and generates business insights.
+AI-powered market analysis tool that analyzes Google Trends data and generates business insights.
 
 Key features:
 
-- Real-time Google Trends analysis
-- Trend scoring algorithm (interest, momentum, consistency)
-- AI-generated business insights using LLM
-- Keyword comparison with interactive charts
-- Personal user dashboards
-- Authentication system
-- PostgreSQL database
-- Production deployment
+* Real-time Google Trends analysis
+* Trend scoring algorithm (interest, momentum, consistency)
+* AI-generated market insights
+* Keyword comparison with interactive charts
+* Personal dashboards
+* Authentication system
+* Production deployment
 
-🔗 Repository  
+🔗 Repository
 https://github.com/rangga-jakti/ai-market-analyzer
 
 ---
 
-## Shopee MVP – Marketplace Application
+# 🧩 Additional Projects
 
-**Python + FastAPI + Vanilla JavaScript**
+### Shopee MVP — Marketplace Application
 
-Full-stack marketplace MVP built with a **Python backend-first architecture**.
+**Python • FastAPI • JavaScript**
 
-Key features:
+Backend-first marketplace prototype.
 
-- JWT authentication & role-based access
-- Product, cart, and order management
-- Payment simulation
-- Modular backend structure
-- Real API–frontend integration
+Features:
 
-🔗 Repository  
+* JWT authentication
+* Product & order management
+* Payment simulation
+* Modular FastAPI backend
+
 https://github.com/rangga-jakti/shopee-mvp
 
 ---
 
-# 🧩 Other Projects
+### User Management API
 
-**User Management API (FastAPI / Python)**  
+FastAPI-based authentication and user management system.
+
 https://github.com/rangga-jakti/user-management-api
-
-**Passport Application System (PHP)**  
-https://github.com/rangga-jakti/pasport-application-system
 
 ---
 
 # 📊 GitHub Stats
 
-![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangga-jakti&show_icons=true&theme=tokyonight)
+![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangga-jakti\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangga-jakti&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangga-jakti\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Rangga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rangga-jakti&theme=tokyo-night)](https://github.com/rangga-jakti)
+[![Rangga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rangga-jakti\&theme=tokyo-night)](https://github.com/rangga-jakti)
 
 ---
 
 # 🌐 Profiles
 
-GitHub  
+GitHub
 https://github.com/rangga-jakti
 
-LinkedIn  
+LinkedIn
 https://www.linkedin.com/in/mirangga-jakti-8b0a69334/
 
 ---
 
-![](https://komarev.com/ghpvc/?username=rangga-jakti&color=blue)
+![](https://komarev.com/ghpvc/?username=rangga-jakti\&color=blue)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
