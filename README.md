@@ -7,18 +7,18 @@
 
 ---
 
-# Building AI Products That People Actually Use
+# 🚀 Building AI Products That People Actually Use
 
 Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered applications** that turn data into real-world decisions.
 
-I build:
+⚡ I build:
 - AI-powered SaaS products  
 - Scalable backend systems  
 - Data-driven applications  
 
 ---
 
-### What I’ve Built
+### 🧠 What I’ve Built
 
 - AI startup validation platform  
 - Market trend analysis system  
@@ -32,7 +32,7 @@ I build:
 
 ---
 
-# Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,github,linux,vscode&theme=dark" />
@@ -40,7 +40,7 @@ I build:
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rangga-jakti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
