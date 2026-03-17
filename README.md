@@ -85,4 +85,5 @@ Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+![](https://komarev.com/ghpvc/?username=rangga-jakti\&color=blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
