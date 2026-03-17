@@ -7,53 +7,32 @@
 
 ---
 
-# 🚀 Building AI Products That People Actually Use
+# Building AI Products That People Actually Use
 
-Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered web applications** that turn data into real-world insights.
+Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered applications** that turn data into real-world decisions.
 
-⚡ Focus:
+I build:
 - AI-powered SaaS products  
-- Backend systems & APIs  
+- Scalable backend systems  
 - Data-driven applications  
 
 ---
 
-# 🔥 Featured Projects
+### What I’ve Built
 
-## 🧠 VentureLens AI  
-> Validate startup ideas in seconds using AI  
+- AI startup validation platform  
+- Market trend analysis system  
+- Trend prediction engine  
+- Fullstack SaaS applications  
 
-- ⚡ 7-dimension AI analysis  
-- 📊 Market scoring system  
-- 🧩 SaaS architecture (auth, dashboard, export)  
-
-🔗 https://github.com/rangga-jakti/venturelens-ai  
-
----
-
-## 📈 AI Market Trend Analyzer  
-> Discover trending products using real-time data  
-
-- 📊 Google Trends integration  
-- 🤖 AI-generated insights (LLM)  
-- 📉 Interactive dashboards  
-
-🔗 https://github.com/rangga-jakti/ai-market-analyzer  
+👉 Each project includes:
+- Live demos  
+- Real-world use cases  
+- Production-ready systems  
 
 ---
 
-## ⚡ TrendPulse AI  
-> Predict trends before they go viral  
-
-- 🔍 Trend detection system  
-- 📈 Growth prediction (Prophet ML)  
-- 🤖 AI-powered analysis  
-
-🔗 https://github.com/rangga-jakti/trendpulse-ai  
-
----
-
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,github,linux,vscode&theme=dark" />
@@ -61,7 +40,7 @@ Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rangga-jakti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
@@ -85,5 +64,6 @@ Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered
 
 ---
 
-![](https://komarev.com/ghpvc/?username=rangga-jakti\&color=blue)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+![](https://komarev.com/ghpvc/?username=rangga-jakti&color=blue)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
