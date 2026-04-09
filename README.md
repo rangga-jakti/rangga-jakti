@@ -49,14 +49,6 @@ Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rangga-jakti&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
-
 # 🌐 Connect
 
 - 🔗 https://github.com/rangga-jakti  
