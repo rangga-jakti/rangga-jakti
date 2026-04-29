@@ -7,18 +7,18 @@
 
 ---
 
-# 🚀 Building AI Products That People Actually Use
+# Turning Ideas Into Real Web Applications
 
-Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered applications** that turn data into real-world decisions.
+A backend-focused developer building scalable web applications using Django, REST APIs, and PostgreSQL.
 
-⚡ I build:
+I build:
 - AI-powered SaaS products  
 - Scalable backend systems  
 - Data-driven applications  
 
 ---
 
-### 🧠 What I’ve Built
+### What I’ve Built
 
 - AI startup validation platform  
 - Market trend analysis system  
@@ -32,7 +32,7 @@ Hi, I'm **Mirangga Jakti** — a backend-focused developer building **AI-powered
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,github,linux,vscode&theme=dark" />
