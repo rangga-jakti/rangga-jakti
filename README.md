@@ -1,10 +1,6 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Mirangga%20Jakti&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Products+That+Matter;Backend+Engineer+(Python+Django+FastAPI);AI+%2F+LLM+Application+Builder;Turning+Data+Into+Decisions&center=true&width=600&height=45&color=00F7FF&vCenter=true&pause=1200&size=20" />
-</p>
-
 ---
 
 # Turning Ideas Into Real Web Applications
