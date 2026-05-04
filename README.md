@@ -3,6 +3,15 @@
 
 ---
 
+<p align="center">
+  <b>Building things on the web. Breaking things in security.</b><br/>
+  <sub>Freelance Web Developer · Cybersecurity Enthusiast · Lifelong Learner</sub>
+</p>
+
+<br/>
+
+----
+
 # Tech Stack
 
 <p align="center">
