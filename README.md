@@ -3,31 +3,6 @@
 
 ---
 
-# Turning Ideas Into Real Web Applications
-
-A backend-focused developer building scalable web applications using Django, REST APIs, and PostgreSQL.
-
-I build:
-- AI-powered SaaS products  
-- Scalable backend systems  
-- Data-driven applications  
-
----
-
-### What I’ve Built
-
-- AI startup validation platform  
-- Market trend analysis system  
-- Trend prediction engine  
-- Fullstack SaaS applications  
-
-👉 Each project includes:
-- Live demos  
-- Real-world use cases  
-- Production-ready systems  
-
----
-
 # Tech Stack
 
 <p align="center">
