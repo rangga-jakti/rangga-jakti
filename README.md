@@ -13,43 +13,16 @@
 
 ## Tech Stack
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
-</p>
+## 💻 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
-
-- LangChain
-- Groq API
-- Prophet
-
-### Security & System Programming
-
-- Windows Security Monitoring
-- psutil
-- pywin32
-- Windows Event Log
-- Registry Monitoring
-- File Integrity Monitoring
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
-</p>
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | Python • Django • Flask • FastAPI |
+| **Frontend** | React • Next.js • Tailwind CSS • JavaScript |
+| **Database** | PostgreSQL • MySQL |
+| **AI** | LangChain • Groq API • Scikit-learn • Prophet |
+| **Security** | Windows Security Monitoring • psutil • pywin32 • Windows Event Log |
+| **Tools** | Git • Docker • Linux • VS Code |
 
 ---
 
