@@ -11,10 +11,44 @@
 
 ----
 
-# Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,js,git,github,linux,vscode&theme=dark" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
+- LangChain
+- Groq API
+- Prophet
+
+### Security & System Programming
+
+- Windows Security Monitoring
+- psutil
+- pywin32
+- Windows Event Log
+- Registry Monitoring
+- File Integrity Monitoring
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
 </p>
 
 ---
