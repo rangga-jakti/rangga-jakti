@@ -26,15 +26,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rangga-jakti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangga-jakti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
-</p>
-
----
-
 # 🌐 Connect
 
 - 🔗 https://github.com/rangga-jakti  
